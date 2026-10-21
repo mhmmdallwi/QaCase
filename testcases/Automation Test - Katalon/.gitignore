@@ -1,0 +1,6 @@
+Reports/
+bin/
+.cache/
+.settings/
+*.log
+*.tmp

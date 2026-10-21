@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Form builder can add an Image Picker field</description>
+  <name>TC-F1-WEB-005 Add Image Picker field</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>f0279b0c-b8a2-4278-9cc1-c33977602871</testCaseGuid>
+</TestCaseEntity>

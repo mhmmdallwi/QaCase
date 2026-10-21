@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Automated test case for TC-F0-007 Network fails during master sync.</description>
+  <name>TC-F0-007 Network fails during master sync</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>ffdfb2c6-0222-43fa-84d6-f282a008da64</testCaseGuid>
+</TestCaseEntity>

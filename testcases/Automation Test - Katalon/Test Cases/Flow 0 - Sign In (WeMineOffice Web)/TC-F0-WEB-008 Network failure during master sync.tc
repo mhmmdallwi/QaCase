@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Interrupt initial master-data sync and verify it is not reported as complete.</description>
+  <name>TC-F0-WEB-008 Network failure during master sync</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>70ef7ae1-d931-4b1b-b9b5-352070b471f9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Automated test case for TC-F2-012 Resolution date mandatory.</description>
+  <name>TC-F2-012 Resolution date mandatory</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>af677446-d3ce-4d6b-82cc-f47a611477ea</testCaseGuid>
+</TestCaseEntity>

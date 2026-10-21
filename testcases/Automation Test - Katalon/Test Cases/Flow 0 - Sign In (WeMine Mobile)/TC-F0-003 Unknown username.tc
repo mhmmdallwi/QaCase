@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Automated test case for TC-F0-003 Unknown username.</description>
+  <name>TC-F0-003 Unknown username</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>7197b455-f69c-4e1b-ae66-cd75a330152e</testCaseGuid>
+</TestCaseEntity>

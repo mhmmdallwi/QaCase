@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Check that the published test form displays each configured field type.</description>
+  <name>TC-F1-003 Dynamic field types render</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>bad87045-c4d2-4473-9614-103eac47137a</testCaseGuid>
+</TestCaseEntity>

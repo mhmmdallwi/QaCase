@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>A network interruption during tenant lookup must not authenticate the user.</description>
+  <name>TC-F0-WEB-007 Network failure during username lookup</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>d78aabc3-bf10-4653-bf03-726b9653743b</testCaseGuid>
+</TestCaseEntity>

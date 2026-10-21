@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Verify the restart prompt after the first master-data update.</description>
+  <name>TC-F0-WEB-006 First master-data sync restart prompt</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>9c328ec9-8e6e-4e9b-aee3-5e77574f2b6a</testCaseGuid>
+</TestCaseEntity>

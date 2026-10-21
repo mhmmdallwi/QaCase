@@ -1,0 +1,7 @@
+scenario,platform,username,formCode,location,sublocation,area,evidenceFile,notes
+valid_signin,mobile,WEMINE_TEST_USERNAME,,,,,,Use dedicated test account
+valid_signin,web,WEMINE_TEST_USERNAME,,,,,,Set WEMINEOFFICE_HOME_MARKER for the signed-in page
+unknown_username,both,WEMINE_UNKNOWN_USERNAME,,,,,,Must not be registered to a tenant
+equipment_inspection,confirm_platform,,WEMINE_EQUIPMENT_FORM_CODE,,,,evidence.jpg,Use a published form with all supported field types
+hazard_report,mobile,,,WEMINE_LOCATION,WEMINE_SUBLOCATION,WEMINE_AREA,evidence.jpg,Use valid values from tenant master data
+follow_up,mobile,,,,,,evidence.jpg,Set WEMINE_CO_OBSERVER_1 and WEMINE_CO_OBSERVER_2

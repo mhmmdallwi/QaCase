@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Open Equipment Inspection and confirm previous submissions and the new-submission entry point are available.</description>
+  <name>TC-F1-001 Previous inspections list</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>e57ed9be-4453-472e-a652-832dc441bf0f</testCaseGuid>
+</TestCaseEntity>

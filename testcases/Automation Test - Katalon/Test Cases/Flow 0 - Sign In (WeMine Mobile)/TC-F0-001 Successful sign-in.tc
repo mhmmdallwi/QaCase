@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Automated test case for TC-F0-001 Successful sign-in.</description>
+  <name>TC-F0-001 Successful sign-in</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>0fbe52b5-1ed5-4f54-b0eb-9d40ac3c4993</testCaseGuid>
+</TestCaseEntity>
