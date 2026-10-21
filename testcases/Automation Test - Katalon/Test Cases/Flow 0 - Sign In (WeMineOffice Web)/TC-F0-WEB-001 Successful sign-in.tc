@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Valid tenant username completes the WeMineOffice sign-in flow and reaches the configured signed-in page.</description>
+  <name>TC-F0-WEB-001 Successful sign-in</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>88c1405e-1f70-4a82-a244-fc8946a6681d</testCaseGuid>
+</TestCaseEntity>

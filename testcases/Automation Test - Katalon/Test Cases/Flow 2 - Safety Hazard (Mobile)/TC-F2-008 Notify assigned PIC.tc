@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Automated test case for TC-F2-009 Notify assigned PIC.</description>
+  <name>TC-F2-009 Notify assigned PIC</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>ee8dca21-77df-4306-8530-5b20588798cd</testCaseGuid>
+</TestCaseEntity>

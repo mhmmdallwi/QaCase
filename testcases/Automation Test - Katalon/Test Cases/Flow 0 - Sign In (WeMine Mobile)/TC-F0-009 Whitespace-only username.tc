@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>A whitespace-only username must not lead to authenticated content.</description>
+  <name>TC-F0-009 Whitespace-only username</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>f8240c4f-794e-4331-bd01-14f11d198e12</testCaseGuid>
+</TestCaseEntity>

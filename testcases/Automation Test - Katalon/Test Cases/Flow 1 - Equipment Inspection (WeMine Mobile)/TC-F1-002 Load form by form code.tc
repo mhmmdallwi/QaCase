@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>On WeMine Mobile, load a published Equipment Inspection form by its configured Form Code and check its fields.</description>
+  <name>TC-F1-002 Load form by form code</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>70b4276e-0b7a-4c0a-87c8-283ee12a553d</testCaseGuid>
+</TestCaseEntity>

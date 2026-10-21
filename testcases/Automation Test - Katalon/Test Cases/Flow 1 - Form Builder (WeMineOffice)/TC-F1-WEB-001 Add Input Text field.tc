@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Form builder can add an Input Text field</description>
+  <name>TC-F1-WEB-001 Add Input Text field</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>b462558c-abb0-4595-a56a-2534fbc2ae4c</testCaseGuid>
+</TestCaseEntity>

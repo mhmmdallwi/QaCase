@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Form builder can add an Input Select field</description>
+  <name>TC-F1-WEB-003 Add Select field</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>d094171e-2ae9-432f-9b45-bc189363d1e0</testCaseGuid>
+</TestCaseEntity>

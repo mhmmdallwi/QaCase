@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Automated test case for TC-F2-011 Add multiple co-observers.</description>
+  <name>TC-F2-011 Add multiple co-observers</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>ba9cffe2-4924-43da-b4dd-9dd06e3e986f</testCaseGuid>
+</TestCaseEntity>

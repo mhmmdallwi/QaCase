@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Previously loaded WeMineOffice content remains available when offline</description>
+  <name>TC-OFF-WEB-001 Cached web experience remains usable offline</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>9438432b-3949-4a77-a78a-673a62a6ca4d</testCaseGuid>
+</TestCaseEntity>

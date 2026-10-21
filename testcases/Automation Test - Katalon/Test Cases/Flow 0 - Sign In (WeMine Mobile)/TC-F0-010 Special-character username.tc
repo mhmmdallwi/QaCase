@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Check that special-character input is handled safely and does not authenticate unexpectedly.</description>
+  <name>TC-F0-010 Special-character username</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>c56f1aa0-2274-4929-a7fc-18f6bf9848db</testCaseGuid>
+</TestCaseEntity>

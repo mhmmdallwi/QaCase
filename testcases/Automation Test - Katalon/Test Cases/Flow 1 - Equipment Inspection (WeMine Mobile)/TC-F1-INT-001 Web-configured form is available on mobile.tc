@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Integration check that a form configured in WeMineOffice is available by Form Code in WeMine Mobile. Assumes the form is in the product-defined available state; no undocumented publish/sync action is assumed.</description>
+  <name>TC-F1-INT-001 Web-configured form is available on mobile</name>
+  <tag>integration</tag>
+  <comment>Validate against the actual test tenant and form labels before execution.</comment>
+  <testCaseGuid>8d19b18e-62f9-4b14-a1c2-45e2a2c3b7f0</testCaseGuid>
+</TestCaseEntity>

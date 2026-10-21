@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>An unregistered username does not proceed to Microsoft authentication.</description>
+  <name>TC-F0-WEB-002 Unknown username</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>6a1a4d7b-d6ae-43c4-bead-6347e3378fed</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Automated test case for TC-F2-005 Area description optional.</description>
+  <name>TC-F2-005 Area description optional</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>20e23dbf-40dc-48ca-986c-b3f424710749</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Automated test case for TC-F2-003 PIC defaults to reporter.</description>
+  <name>TC-F2-003 PIC defaults to reporter</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>92e64fe5-f119-45a3-831d-61fb65e87c11</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>An empty username keeps the mobile app on the username step.</description>
+  <name>TC-F0-008 Empty username</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>b71fe4fd-db5e-45a5-bdde-1f7d029b9867</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Verify that a reporter can select an image from the device gallery and that the selected evidence preview is shown before submission.</description>
+  <name>TC-F2-006 Evidence attachment preview</name>
+  <tag></tag>
+  <comment>Requires a prepared image in the Android gallery and validation of the preview selector against the target app.</comment>
+  <testCaseGuid>e6de7520-9683-4d8d-b51a-daf582d30f39</testCaseGuid>
+</TestCaseEntity>

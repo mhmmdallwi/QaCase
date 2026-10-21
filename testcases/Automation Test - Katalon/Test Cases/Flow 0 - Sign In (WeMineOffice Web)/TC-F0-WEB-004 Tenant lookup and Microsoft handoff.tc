@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>A valid tenant username opens the Microsoft sign-in screen.</description>
+  <name>TC-F0-WEB-004 Tenant lookup and Microsoft handoff</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>958f0a73-c99a-46bb-b8dd-471c3b74641a</testCaseGuid>
+</TestCaseEntity>

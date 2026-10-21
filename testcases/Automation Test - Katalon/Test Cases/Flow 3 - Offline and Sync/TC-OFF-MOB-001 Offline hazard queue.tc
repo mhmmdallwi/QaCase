@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+  <description>Checks offline hazard submission and synchronization on mobile. Confirm queued submission is supported in the target build before execution.</description>
+  <name>TC-OFF-MOB-001 Offline hazard queue</name>
+  <tag></tag>
+  <comment></comment>
+  <testCaseGuid>21b8bc67-78fe-4280-9c10-5acbcca28cf1</testCaseGuid>
+</TestCaseEntity>
